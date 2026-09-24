@@ -1,0 +1,6 @@
+{
+  "name": "電腦科技發展與世代演進互動學習",
+  "description": "探索電腦從早期機械計算機到電子時代、五個發展世代與現代AI與雲端運算的互動式數位學習教材。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
